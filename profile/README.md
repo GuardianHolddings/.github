@@ -11,7 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-MSA
-Auth 
-Wallet 
-Market 
+**MSA**
+
+1. Auth
+2. Wallet
+3. Market
