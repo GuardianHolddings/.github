@@ -2,12 +2,14 @@
 - https://google.github.io/styleguide/tsguide.html
 
 ## Git Branch Strategy
-- Github Flow를 사용하며, 다음의 절차로 브랜치를 생성한다.
+### Github Flow를 사용하며, 다음의 절차로 브랜치를 생성한다.
+
 1. 브랜치는 반드시 Github에서 생성된 Issue 상세페이지에서 생성한다.
 2. 브랜치를 생성할 때에는 다음의 룰을 따른다.
   1. 브랜치명 규칙은 feature/{{ PROJECT_NAME }}/{{ 이슈번호-이슈제목 }}
   2. Github remote에도 브랜치가 생성되도록 "Open branch with GitHub Desktop"를 선택한다.
-- PROJECT_NAME은 workspace.json에 정의된 이름을 따른다.
+
+### PROJECT_NAME은 workspace.json에 정의된 이름을 따른다.
 <pre>
 "projects": {
     "api-feature-account": "apps/api/feature-account",
