@@ -9,7 +9,7 @@
   1. 브랜치명 규칙: **{{ PROJECT_NAME }}/#{{ 이슈번호 }}**
   2. Github remote에도 브랜치가 생성되도록 "Open branch with GitHub Desktop"를 선택한다.
 
-### PROJECT_NAME은 workspace.json에 정의된 이름에서 "feature"는 제외한다.
+### PROJECT_NAME은 workspace.json에 정의된 이름을 사용하되 "feature"는 제거한다.
 <pre>
 "projects": {
     "api-feature-account": "apps/api/feature-account",
