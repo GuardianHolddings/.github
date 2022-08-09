@@ -28,11 +28,11 @@
 
 ### 브랜치명 예시
 #### cdef-web
-- cdef-web-account/#1
+- cdef-web-main/#1
 - cdef-web-account/#2
 #### api
 - api-account/#3
 - api-wallet/#4
 
-<img width="469" alt="image" src="https://user-images.githubusercontent.com/18748215/183349220-b39535a0-4183-43fe-89ea-9ddc6979a5d6.png">
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/18748215/183547897-0861bc98-3338-4b17-b706-b63eac26da9a.png">
 
